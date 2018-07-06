@@ -3,6 +3,7 @@
 import os
 import json
 import urllib.request
+import urllib.error
 
 tweetsdir = "data/js/tweets"
 mediadir = "media"
@@ -16,8 +17,11 @@ def process_json(js):
         for key in js:
             if key == "media_url":
                 print(js["media_url"])
-                filename = download(js["media_url"])
-                js["media_url"] = filename
+                try:
+                    filename = download(js["media_url"])
+                    js["media_url"] = filename
+                except urllib.error.HTTPError as err:
+                    print("ERROR", err)
 
             process_json(js[key])
 
