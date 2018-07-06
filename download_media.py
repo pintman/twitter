@@ -16,7 +16,6 @@ def process_json(js):
     if isinstance(js, dict):
         for key in js:
             if key == "media_url":
-                print(js["media_url"])
                 try:
                     filename = download(js["media_url"])
                     js["media_url"] = filename
