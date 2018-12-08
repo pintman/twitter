@@ -714,7 +714,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Digitalcourage e.V.",
+      "name" : "digitalcourage@chaos.social",
       "screen_name" : "digitalcourage",
       "indices" : [ 3, 18 ],
       "id_str" : "29031844",
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 857892901329752065,
     "created_at" : "2017-04-28 09:43:01 +0000",
     "user" : {
-      "name" : "Digitalcourage e.V.",
+      "name" : "digitalcourage@chaos.social",
       "screen_name" : "digitalcourage",
       "protected" : false,
       "id_str" : "29031844",
@@ -1361,7 +1361,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "raganwald",
       "protected" : false,
       "id_str" : "18137723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981971516668592128\/46_3g0gG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056315879208697859\/zE_XCLgf_normal.jpg",
       "id" : 18137723,
       "verified" : false
     }
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -2317,7 +2317,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Cochran, professional adult",
+      "name" : "Dave Cochran",
       "screen_name" : "Dave_Cochran",
       "indices" : [ 3, 16 ],
       "id_str" : "296315679",
@@ -2406,7 +2406,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 854440892408766464,
     "created_at" : "2017-04-18 21:05:58 +0000",
     "user" : {
-      "name" : "Dave Cochran, professional adult",
+      "name" : "Dave Cochran",
       "screen_name" : "Dave_Cochran",
       "protected" : false,
       "id_str" : "296315679",
@@ -3449,7 +3449,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "GreengymRios",
       "protected" : false,
       "id_str" : "3297439350",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006597295377403904\/rOCUCaHc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041383925166362625\/UiU3Tj_E_normal.jpg",
       "id" : 3297439350,
       "verified" : false
     }
@@ -3841,7 +3841,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "c3voc",
       "protected" : false,
       "id_str" : "1655829702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940962554649759749\/Qa_5TJKT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061706849752375297\/zEY0S7JL_normal.jpg",
       "id" : 1655829702,
       "verified" : false
     }
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Spang \/\/ \u00A5UNG KAFKA \u270D\uFE0F\uD83D\uDCB0\uD83D\uDCB0\uD83D\uDCB0",
+      "name" : "Benjamin Spang \u2022 \u00A5UNG KAFKA \u270D\uFE0F\uD83D\uDCB0\uD83D\uDCB0\uD83D\uDCB0",
       "screen_name" : "Doppelmond",
       "indices" : [ 3, 14 ],
       "id_str" : "23500003",
@@ -4037,7 +4037,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 852526774156185600,
     "created_at" : "2017-04-13 14:19:56 +0000",
     "user" : {
-      "name" : "Benjamin Spang \/\/ \u00A5UNG KAFKA \u270D\uFE0F\uD83D\uDCB0\uD83D\uDCB0\uD83D\uDCB0",
+      "name" : "Benjamin Spang \u2022 \u00A5UNG KAFKA \u270D\uFE0F\uD83D\uDCB0\uD83D\uDCB0\uD83D\uDCB0",
       "screen_name" : "Doppelmond",
       "protected" : false,
       "id_str" : "23500003",
@@ -5267,7 +5267,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 3, 13 ],
       "id_str" : "631849255",
@@ -5314,7 +5314,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 850685728744931328,
     "created_at" : "2017-04-08 12:24:17 +0000",
     "user" : {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "protected" : false,
       "id_str" : "631849255",
@@ -5338,7 +5338,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dominik George \uD83D\uDC3F",
+      "name" : "Dominik George \uD83D\uDC3F\uD83C\uDF08",
       "screen_name" : "Natureshadow",
       "indices" : [ 0, 13 ],
       "id_str" : "22984720",
@@ -5370,67 +5370,6 @@ Grailbird.data.tweets_2017_04 =
   "created_at" : "2017-04-08 11:24:05 +0000",
   "in_reply_to_screen_name" : "Natureshadow",
   "in_reply_to_user_id_str" : "22984720",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "rvagg",
-      "screen_name" : "rvagg",
-      "indices" : [ 3, 9 ],
-      "id_str" : "158704969",
-      "id" : 158704969
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 90, 113 ],
-      "url" : "https:\/\/t.co\/mvKSgJ1NMD",
-      "expanded_url" : "https:\/\/twitter.com\/FailsWork\/status\/849945426858061826\/photo\/1",
-      "display_url" : "pic.twitter.com\/mvKSgJ1NMD"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "850654218641920001",
-  "text" : "RT @rvagg: This guy is a software engineer, you can tell by his awesome estimation skills https:\/\/t.co\/mvKSgJ1NMD",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 79, 102 ],
-        "url" : "https:\/\/t.co\/mvKSgJ1NMD",
-        "expanded_url" : "https:\/\/twitter.com\/FailsWork\/status\/849945426858061826\/photo\/1",
-        "display_url" : "pic.twitter.com\/mvKSgJ1NMD"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "850126885581340672",
-    "text" : "This guy is a software engineer, you can tell by his awesome estimation skills https:\/\/t.co\/mvKSgJ1NMD",
-    "id" : 850126885581340672,
-    "created_at" : "2017-04-06 23:23:38 +0000",
-    "user" : {
-      "name" : "rvagg",
-      "screen_name" : "rvagg",
-      "protected" : false,
-      "id_str" : "158704969",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889691664284921856\/UmBx7o5P_normal.jpg",
-      "id" : 158704969,
-      "verified" : false
-    }
-  },
-  "id" : 850654218641920001,
-  "created_at" : "2017-04-08 10:19:04 +0000",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -5737,7 +5676,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 3, 12 ],
       "id_str" : "17154029",
@@ -5769,11 +5708,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 848619625969528832,
     "created_at" : "2017-04-02 19:34:20 +0000",
     "user" : {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "protected" : false,
       "id_str" : "17154029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550243061091934208\/kiy_ovWC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039025036668153861\/X9yOK3Ke_normal.jpg",
       "id" : 17154029,
       "verified" : false
     }
@@ -5823,11 +5762,11 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amol Rajan",
+      "name" : "amolrajan123",
       "screen_name" : "amolrajanBBC",
       "indices" : [ 3, 16 ],
-      "id_str" : "38162820",
-      "id" : 38162820
+      "id_str" : "1016240329954091008",
+      "id" : 1016240329954091008
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/amolrajanBBC\/status\/848153909130665984\/photo\/1",
@@ -5913,7 +5852,7 @@ Grailbird.data.tweets_2017_04 =
     "created_at" : "2017-04-01 12:43:44 +0000",
     "user" : {
       "name" : "Amol Rajan",
-      "screen_name" : "amolrajanBBC",
+      "screen_name" : "amolrajan",
       "protected" : false,
       "id_str" : "38162820",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830722099140493312\/1omu5qPQ_normal.jpg",
@@ -5963,7 +5902,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zo\u00EB Paramour",
+      "name" : "Snowy Paramour \u2603\uFE0F",
       "screen_name" : "ZoeParamour",
       "indices" : [ 3, 15 ],
       "id_str" : "57460933",
@@ -6058,11 +5997,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 848023930682191872,
     "created_at" : "2017-04-01 04:07:15 +0000",
     "user" : {
-      "name" : "Zo\u00EB Paramour",
+      "name" : "Snowy Paramour \u2603\uFE0F",
       "screen_name" : "ZoeParamour",
       "protected" : false,
       "id_str" : "57460933",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000309032798900224\/WQHMuQL5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068246210761375744\/OzW8CB-Q_normal.jpg",
       "id" : 57460933,
       "verified" : false
     }

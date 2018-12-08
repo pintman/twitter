@@ -48,7 +48,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "9334352",
       "id" : 9334352
     }, {
-      "name" : "Diego Noschlandara",
+      "name" : "R aus K",
       "screen_name" : "leralle",
       "indices" : [ 8, 16 ],
       "id_str" : "704863",
@@ -120,7 +120,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego Noschlandara",
+      "name" : "R aus K",
       "screen_name" : "leralle",
       "indices" : [ 0, 8 ],
       "id_str" : "704863",
@@ -156,7 +156,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -565,120 +565,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Micha",
-      "screen_name" : "Gedankenfetzen",
-      "indices" : [ 3, 18 ],
-      "id_str" : "303500657",
-      "id" : 303500657
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Gedankenfetzen\/status\/557243344360058881\/photo\/1",
-      "indices" : [ 38, 60 ],
-      "url" : "http:\/\/t.co\/bbh5enVKQ5",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B7u53amIEAEAhZj.jpg",
-      "id_str" : "557243340593565697",
-      "id" : 557243340593565697,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7u53amIEAEAhZj.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 430,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 430,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 430,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 430,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/bbh5enVKQ5"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "559749344979869697",
-  "text" : "RT @Gedankenfetzen: Genau mein Humor. http:\/\/t.co\/bbh5enVKQ5",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/Gedankenfetzen\/status\/557243344360058881\/photo\/1",
-        "indices" : [ 18, 40 ],
-        "url" : "http:\/\/t.co\/bbh5enVKQ5",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B7u53amIEAEAhZj.jpg",
-        "id_str" : "557243340593565697",
-        "id" : 557243340593565697,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7u53amIEAEAhZj.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 430,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 430,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 430,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 430,
-          "resize" : "fit",
-          "w" : 600
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/bbh5enVKQ5"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "557243344360058881",
-    "text" : "Genau mein Humor. http:\/\/t.co\/bbh5enVKQ5",
-    "id" : 557243344360058881,
-    "created_at" : "2015-01-19 18:29:01 +0000",
-    "user" : {
-      "name" : "Micha",
-      "screen_name" : "Gedankenfetzen",
-      "protected" : false,
-      "id_str" : "303500657",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014210364274302976\/udscCbkJ_normal.jpg",
-      "id" : 303500657,
-      "verified" : false
-    }
-  },
-  "id" : 559749344979869697,
-  "created_at" : "2015-01-26 16:26:58 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -874,7 +761,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -926,7 +813,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1300,7 +1187,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1619,7 +1506,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1795,7 +1682,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1828,7 +1715,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1962,7 +1849,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Tobias_Schulze",
       "protected" : false,
       "id_str" : "47919307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/924349470585884674\/pcUC0-zg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052955462931570688\/ZtfxeARV_normal.jpg",
       "id" : 47919307,
       "verified" : false
     }
@@ -2015,7 +1902,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marg\u2665\uFE0Ft H\u2665\uFE0Fnecker",
+      "name" : "Margot Honecker",
       "screen_name" : "HoneckerMargot",
       "indices" : [ 3, 18 ],
       "id_str" : "1656008539",
@@ -2048,7 +1935,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554030254143311872,
     "created_at" : "2015-01-10 21:41:20 +0000",
     "user" : {
-      "name" : "Marg\u2665\uFE0Ft H\u2665\uFE0Fnecker",
+      "name" : "Margot Honecker",
       "screen_name" : "HoneckerMargot",
       "protected" : false,
       "id_str" : "1656008539",
@@ -2546,7 +2433,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2897,7 +2784,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2922,7 +2809,7 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

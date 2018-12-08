@@ -1358,13 +1358,13 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "1262059087",
       "id" : 1262059087
     }, {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 10, 17 ],
       "id_str" : "1735041",
       "id" : 1735041
     }, {
-      "name" : "Marina Weisband",
+      "name" : "Marina Weisband \uD83E\uDD89",
       "screen_name" : "Afelia",
       "indices" : [ 18, 25 ],
       "id_str" : "16569660",
@@ -1475,7 +1475,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1514,7 +1514,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 3, 12 ],
       "id_str" : "17154029",
@@ -1552,11 +1552,11 @@ Grailbird.data.tweets_2017_02 =
     "id" : 829245905555558400,
     "created_at" : "2017-02-08 08:30:05 +0000",
     "user" : {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "protected" : false,
       "id_str" : "17154029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550243061091934208\/kiy_ovWC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039025036668153861\/X9yOK3Ke_normal.jpg",
       "id" : 17154029,
       "verified" : false
     }
@@ -1860,7 +1860,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "46612397",
       "id" : 46612397
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 6, 15 ],
       "id_str" : "17154029",

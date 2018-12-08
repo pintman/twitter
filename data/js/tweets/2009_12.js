@@ -740,7 +740,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nina S.",
+      "name" : "Nachtrose",
       "screen_name" : "Nachtrose",
       "indices" : [ 0, 10 ],
       "id_str" : "22361212",
@@ -795,7 +795,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nina S.",
+      "name" : "Nachtrose",
       "screen_name" : "Nachtrose",
       "indices" : [ 0, 10 ],
       "id_str" : "22361212",

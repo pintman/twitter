@@ -684,7 +684,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "iomf42",
       "protected" : false,
       "id_str" : "440164312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790970817433722880\/xBv8lqn7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059184293803638784\/-FT5WaYx_normal.jpg",
       "id" : 440164312,
       "verified" : false
     }
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dominik George \uD83D\uDC3F",
+      "name" : "Dominik George \uD83D\uDC3F\uD83C\uDF08",
       "screen_name" : "Natureshadow",
       "indices" : [ 0, 13 ],
       "id_str" : "22984720",
@@ -1806,7 +1806,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dominik George \uD83D\uDC3F",
+      "name" : "Dominik George \uD83D\uDC3F\uD83C\uDF08",
       "screen_name" : "Natureshadow",
       "indices" : [ 0, 13 ],
       "id_str" : "22984720",
@@ -1902,7 +1902,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "217410857",
       "id" : 217410857
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 9, 18 ],
       "id_str" : "17154029",
@@ -2093,7 +2093,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "217410857",
       "id" : 217410857
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 9, 18 ],
       "id_str" : "17154029",

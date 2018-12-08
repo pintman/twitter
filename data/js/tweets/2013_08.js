@@ -657,13 +657,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wikipedia",
-      "screen_name" : "wikipedia_de",
-      "indices" : [ 0, 13 ],
-      "id_str" : "50928856",
-      "id" : 50928856
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
@@ -678,12 +672,9 @@ Grailbird.data.tweets_2013_08 =
   },
   "geo" : { },
   "id_str" : "372994952038330369",
-  "in_reply_to_user_id" : 50928856,
   "text" : "@wikipedia_de mag keine gender-gerechten Formulierungen und setzt auf das generische Maskulinum?! https:\/\/t.co\/b7w3CXbdZ9 #fb",
   "id" : 372994952038330369,
   "created_at" : "2013-08-29 08:11:41 +0000",
-  "in_reply_to_screen_name" : "wikipedia_de",
-  "in_reply_to_user_id_str" : "50928856",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -1631,7 +1622,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "16906498",
       "id" : 16906498
     }, {
-      "name" : "H. Schneider",
+      "name" : "Hokey",
       "screen_name" : "Hokeys",
       "indices" : [ 36, 43 ],
       "id_str" : "9383462",
@@ -1664,7 +1655,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cristin@ Santos \u2600\uFE0F",
+      "name" : "Cristin@ Santos \uD83C\uDF0D\uD83D\uDCF1",
       "screen_name" : "edwaves",
       "indices" : [ 3, 11 ],
       "id_str" : "20719172",
@@ -1725,11 +1716,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 368134510535139328,
     "created_at" : "2013-08-15 22:18:01 +0000",
     "user" : {
-      "name" : "Cristin@ Santos \u2600\uFE0F",
+      "name" : "Cristin@ Santos \uD83C\uDF0D\uD83D\uDCF1",
       "screen_name" : "edwaves",
       "protected" : false,
       "id_str" : "20719172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799268206586249217\/NOAbj5lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036780971146862592\/rwudyLVq_normal.jpg",
       "id" : 20719172,
       "verified" : false
     }
@@ -1749,7 +1740,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tuku",
+      "name" : "Kurt Tutschek",
       "screen_name" : "tutschek",
       "indices" : [ 3, 12 ],
       "id_str" : "29287214",
@@ -1786,7 +1777,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 367913602348359680,
     "created_at" : "2013-08-15 07:40:12 +0000",
     "user" : {
-      "name" : "tuku",
+      "name" : "Kurt Tutschek",
       "screen_name" : "tutschek",
       "protected" : false,
       "id_str" : "29287214",
@@ -2767,7 +2758,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2812,7 +2803,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",

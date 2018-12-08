@@ -1048,7 +1048,13 @@ Grailbird.data.tweets_2016_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Salom\u00E9 Dorian",
+      "screen_name" : "DorianSalome",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1040924178722041857",
+      "id" : 1040924178722041857
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1577,7 +1583,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DarthLehrer official",
+      "name" : "DarthLehrer_official",
       "screen_name" : "Darth_Lehrer",
       "indices" : [ 3, 16 ],
       "id_str" : "129807640",
@@ -1604,11 +1610,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 724133559729008640,
     "created_at" : "2016-04-24 07:11:09 +0000",
     "user" : {
-      "name" : "DarthLehrer official",
+      "name" : "DarthLehrer_official",
       "screen_name" : "Darth_Lehrer",
       "protected" : false,
       "id_str" : "129807640",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947482356289503232\/EGuJHoOz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068938822258515968\/Upug1lt9_normal.jpg",
       "id" : 129807640,
       "verified" : false
     }
@@ -1700,7 +1706,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Digitalcourage e.V.",
+      "name" : "digitalcourage@chaos.social",
       "screen_name" : "digitalcourage",
       "indices" : [ 3, 18 ],
       "id_str" : "29031844",
@@ -1774,7 +1780,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 723527307067977728,
     "created_at" : "2016-04-22 15:02:07 +0000",
     "user" : {
-      "name" : "Digitalcourage e.V.",
+      "name" : "digitalcourage@chaos.social",
       "screen_name" : "digitalcourage",
       "protected" : false,
       "id_str" : "29031844",
@@ -2549,7 +2555,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "13040652",
       "id" : 13040652
     }, {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 15, 25 ],
       "id_str" : "14700783",
@@ -2615,7 +2621,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -3241,7 +3247,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",

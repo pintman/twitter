@@ -3,7 +3,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "deutsche Direkthilfe",
+      "name" : "Deutsche Direkthilfe",
       "screen_name" : "ddhilfe",
       "indices" : [ 3, 11 ],
       "id_str" : "1600955827",
@@ -92,7 +92,7 @@ Grailbird.data.tweets_2018_03 =
     "id" : 979771857153986561,
     "created_at" : "2018-03-30 17:26:28 +0000",
     "user" : {
-      "name" : "deutsche Direkthilfe",
+      "name" : "Deutsche Direkthilfe",
       "screen_name" : "ddhilfe",
       "protected" : false,
       "id_str" : "1600955827",
@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 0, 7 ],
       "id_str" : "1735041",

@@ -367,7 +367,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Linuzifer",
+      "name" : "linuzifer",
       "screen_name" : "Linuzifer",
       "indices" : [ 3, 13 ],
       "id_str" : "49579575",
@@ -399,7 +399,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 911569873515548673,
     "created_at" : "2017-09-23 12:36:08 +0000",
     "user" : {
-      "name" : "Linuzifer",
+      "name" : "linuzifer",
       "screen_name" : "Linuzifer",
       "protected" : false,
       "id_str" : "49579575",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "ORasche",
       "protected" : false,
       "id_str" : "94206884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993946494569992192\/DXSdXFZi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065784798118072320\/yLEtMg67_normal.jpg",
       "id" : 94206884,
       "verified" : true
     }
@@ -983,7 +983,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian K\u00F6llerer",
+      "name" : "Dr. Philoponus",
       "screen_name" : "DrPhiloponus",
       "indices" : [ 0, 13 ],
       "id_str" : "19470289",
@@ -1189,7 +1189,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Frollein van B(o)ulette",
+      "name" : "Frollein van Boulette",
       "screen_name" : "Frollein_van_B",
       "indices" : [ 0, 15 ],
       "id_str" : "935545578",
@@ -1795,7 +1795,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1828,7 +1828,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -2103,7 +2103,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "zeitonline",
       "protected" : false,
       "id_str" : "5715752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899901264942813184\/_n5m0ro7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035110680377155584\/FqlSG-IN_normal.jpg",
       "id" : 5715752,
       "verified" : true
     }
@@ -2265,7 +2265,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "c3daysleft",
       "protected" : false,
       "id_str" : "2272176446",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940350285947523072\/4_gCZSue_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060172362887372800\/6cQz1CWi_normal.jpg",
       "id" : 2272176446,
       "verified" : false
     }
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "FerdinandScholz",
       "protected" : false,
       "id_str" : "2919870471",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004749958631829504\/7pC7jERk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047516248563748865\/sBput9YR_normal.jpg",
       "id" : 2919870471,
       "verified" : false
     }
@@ -2748,7 +2748,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 0, 7 ],
       "id_str" : "1735041",
@@ -2925,7 +2925,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "880987927",
       "id" : 880987927
     }, {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 12, 19 ],
       "id_str" : "1735041",

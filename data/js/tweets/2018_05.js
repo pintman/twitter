@@ -3,7 +3,7 @@ Grailbird.data.tweets_2018_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The MagPi",
+      "name" : "The MagPi magazine",
       "screen_name" : "TheMagPi",
       "indices" : [ 3, 12 ],
       "id_str" : "550247610",
@@ -288,11 +288,11 @@ Grailbird.data.tweets_2018_05 =
     "id" : 1002084562552451072,
     "created_at" : "2018-05-31 07:09:12 +0000",
     "user" : {
-      "name" : "The MagPi",
+      "name" : "The MagPi magazine",
       "screen_name" : "TheMagPi",
       "protected" : false,
       "id_str" : "550247610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948133002982420480\/LjWAtXgO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055910252124737537\/V8ovGSwr_normal.jpg",
       "id" : 550247610,
       "verified" : false
     }
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2018_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KaBine",
+      "name" : "Bine",
       "screen_name" : "KaBine",
       "indices" : [ 3, 10 ],
       "id_str" : "16839160",
@@ -1386,7 +1386,7 @@ Grailbird.data.tweets_2018_05 =
     "id" : 999635952355168256,
     "created_at" : "2018-05-24 12:59:18 +0000",
     "user" : {
-      "name" : "KaBine",
+      "name" : "Bine",
       "screen_name" : "KaBine",
       "protected" : false,
       "id_str" : "16839160",
@@ -3400,7 +3400,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "iamdevloper",
       "protected" : false,
       "id_str" : "564919357",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071055431215276033\/U9-RIlDs_normal.jpg",
       "id" : 564919357,
       "verified" : false
     }

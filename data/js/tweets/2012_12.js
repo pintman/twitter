@@ -34,7 +34,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "KC__DC",
       "protected" : false,
       "id_str" : "127196685",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746270448925683712\/yvgAbh4o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042419202219548675\/n-AyD6b2_normal.jpg",
       "id" : 127196685,
       "verified" : false
     }
@@ -664,7 +664,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 0, 16 ],
       "id_str" : "16274129",
@@ -1226,7 +1226,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "nofoo",
       "protected" : false,
       "id_str" : "18539248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936237636167094272\/_fSJlf2f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031026787705397249\/Ei5-JtwX_normal.jpg",
       "id" : 18539248,
       "verified" : false
     }
@@ -1246,7 +1246,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "der_handwerk",
+      "name" : "Goldener Handwerk",
       "screen_name" : "der_handwerk",
       "indices" : [ 3, 16 ],
       "id_str" : "59064184",
@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 284959544084422656,
     "created_at" : "2012-12-29 09:50:24 +0000",
     "user" : {
-      "name" : "der_handwerk",
+      "name" : "Goldener Handwerk",
       "screen_name" : "der_handwerk",
       "protected" : false,
       "id_str" : "59064184",
@@ -3472,7 +3472,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2671 Lars Golenia \u2671",
+      "name" : "Lars Golenia",
       "screen_name" : "larsgolenia",
       "indices" : [ 0, 12 ],
       "id_str" : "42109403",
@@ -3490,7 +3490,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "23775769",
       "id" : 23775769
     }, {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 35, 51 ],
       "id_str" : "16274129",

@@ -388,7 +388,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",

@@ -106,7 +106,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bildschirmtext S01E01",
+      "name" : "Creative Industries Tycoon 2022",
       "screen_name" : "guenterhack",
       "indices" : [ 0, 12 ],
       "id_str" : "1760561",
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kosmar \uD83C\uDDEA\uD83C\uDDFA",
+      "name" : "kosmar \uD83C\uDDEA\uD83C\uDDFA h\u00F6rt zu",
       "screen_name" : "kosmar",
       "indices" : [ 3, 10 ],
       "id_str" : "1487011",
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 493675784763375616,
     "created_at" : "2014-07-28 08:34:13 +0000",
     "user" : {
-      "name" : "kosmar \uD83C\uDDEA\uD83C\uDDFA",
+      "name" : "kosmar \uD83C\uDDEA\uD83C\uDDFA h\u00F6rt zu",
       "screen_name" : "kosmar",
       "protected" : false,
       "id_str" : "1487011",
@@ -385,7 +385,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "cs",
+      "name" : "c",
       "screen_name" : "cszabla",
       "indices" : [ 3, 11 ],
       "id_str" : "18621445",
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 490171782221950977,
     "created_at" : "2014-07-18 16:30:34 +0000",
     "user" : {
-      "name" : "cs",
+      "name" : "c",
       "screen_name" : "cszabla",
       "protected" : false,
       "id_str" : "18621445",
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -948,7 +948,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "20232684",
       "id" : 20232684
     }, {
-      "name" : "Sascha Stoltenow",
+      "name" : "Buzzride in peace",
       "screen_name" : "BendlerBlogger",
       "indices" : [ 15, 30 ],
       "id_str" : "17673914",
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sascha Stoltenow",
+      "name" : "Buzzride in peace",
       "screen_name" : "BendlerBlogger",
       "indices" : [ 0, 15 ],
       "id_str" : "17673914",
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "billrobbins",
       "protected" : false,
       "id_str" : "15283165",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2563628158\/3rmd6phik5552cpfu84i_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065645075135311873\/HYku6EGu_normal.jpg",
       "id" : 15283165,
       "verified" : false
     }
@@ -2345,7 +2345,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2378,7 +2378,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",

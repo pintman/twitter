@@ -522,7 +522,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "ChristophKappes",
       "protected" : false,
       "id_str" : "19961453",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959386837243613186\/m6Tsu-If_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070611775702384645\/m8bFMmxn_normal.jpg",
       "id" : 19961453,
       "verified" : true
     }
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Britz",
+      "name" : "Nicole Britz \uD83D\uDC00",
       "screen_name" : "dyfustic",
       "indices" : [ 3, 12 ],
       "id_str" : "75604831",
@@ -774,11 +774,11 @@ Grailbird.data.tweets_2017_06 =
     "id" : 877768464399835136,
     "created_at" : "2017-06-22 06:01:24 +0000",
     "user" : {
-      "name" : "Nicole Britz",
+      "name" : "Nicole Britz \uD83D\uDC00",
       "screen_name" : "dyfustic",
       "protected" : false,
       "id_str" : "75604831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000261474936291329\/T0bA0CRr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061984589965602817\/f6en5itE_normal.jpg",
       "id" : 75604831,
       "verified" : false
     }
@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Computational Linguesther",
+      "name" : "Esther Seyffarth",
       "screen_name" : "ojahnn",
       "indices" : [ 0, 7 ],
       "id_str" : "24693754",
@@ -1501,7 +1501,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1674,7 +1674,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "180gradflip",
       "protected" : false,
       "id_str" : "3039586486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002276301972099073\/hGzo3Zu-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070023875491258372\/xpBfFhmp_normal.jpg",
       "id" : 3039586486,
       "verified" : false
     }
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -2185,67 +2185,6 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Frimelotta",
-      "screen_name" : "ixsi",
-      "indices" : [ 3, 8 ],
-      "id_str" : "16906498",
-      "id" : 16906498
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 51, 74 ],
-      "url" : "https:\/\/t.co\/eshIDgyiCG",
-      "expanded_url" : "https:\/\/www.designernews.co\/stories\/84443-redditors-design-worst-volume-sliders-possible",
-      "display_url" : "designernews.co\/stories\/84443-\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "874936227644018694",
-  "text" : "RT @ixsi: Kreative Umsetzung von Lautst\u00E4rkereglern https:\/\/t.co\/eshIDgyiCG",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 41, 64 ],
-        "url" : "https:\/\/t.co\/eshIDgyiCG",
-        "expanded_url" : "https:\/\/www.designernews.co\/stories\/84443-redditors-design-worst-volume-sliders-possible",
-        "display_url" : "designernews.co\/stories\/84443-\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "874710418891177984",
-    "text" : "Kreative Umsetzung von Lautst\u00E4rkereglern https:\/\/t.co\/eshIDgyiCG",
-    "id" : 874710418891177984,
-    "created_at" : "2017-06-13 19:29:49 +0000",
-    "user" : {
-      "name" : "Frimelotta",
-      "screen_name" : "ixsi",
-      "protected" : false,
-      "id_str" : "16906498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1353327155\/meinavatar_normal.jpg",
-      "id" : 16906498,
-      "verified" : false
-    }
-  },
-  "id" : 874936227644018694,
-  "created_at" : "2017-06-14 10:27:06 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2308,7 +2247,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kokujin \u9ED2\u4EBA",
+      "name" : "Kokujin \u9ED2\u4EBA 12\/9 Archer Time #SAG",
       "screen_name" : "Kaibutsu",
       "indices" : [ 3, 12 ],
       "id_str" : "17350532",
@@ -2397,11 +2336,11 @@ Grailbird.data.tweets_2017_06 =
     "id" : 874099451757023232,
     "created_at" : "2017-06-12 03:02:03 +0000",
     "user" : {
-      "name" : "Kokujin \u9ED2\u4EBA",
+      "name" : "Kokujin \u9ED2\u4EBA 12\/9 Archer Time #SAG",
       "screen_name" : "Kaibutsu",
       "protected" : false,
       "id_str" : "17350532",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012679883070242816\/SLLtnaWj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065218664591433729\/HuM2WBot_normal.jpg",
       "id" : 17350532,
       "verified" : false
     }
@@ -2936,75 +2875,13 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "seni_bl",
       "protected" : false,
       "id_str" : "1356087222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002148892119625729\/_gdnLi7l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049931350206308355\/baNiEvg4_normal.jpg",
       "id" : 1356087222,
       "verified" : false
     }
   },
   "id" : 873998465407356928,
   "created_at" : "2017-06-11 20:20:46 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jan-Piet MENS",
-      "screen_name" : "jpmens",
-      "indices" : [ 3, 10 ],
-      "id_str" : "18669708",
-      "id" : 18669708
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "systemd",
-      "indices" : [ 41, 49 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "873977133449785345",
-  "text" : "RT @jpmens: YOU ARE FUCKING KIDDING ME!? #systemd falls back to DNS on 8.8.8.8 without my permission? Who the fuck implements that?!? https\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "systemd",
-        "indices" : [ 29, 37 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 122, 145 ],
-        "url" : "https:\/\/t.co\/SI1f4ksN4d",
-        "expanded_url" : "https:\/\/twitter.com\/PowerDNS_Bert\/status\/873863741925978113",
-        "display_url" : "twitter.com\/PowerDNS_Bert\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "873878528844017664",
-    "text" : "YOU ARE FUCKING KIDDING ME!? #systemd falls back to DNS on 8.8.8.8 without my permission? Who the fuck implements that?!? https:\/\/t.co\/SI1f4ksN4d",
-    "id" : 873878528844017664,
-    "created_at" : "2017-06-11 12:24:11 +0000",
-    "user" : {
-      "name" : "Jan-Piet MENS",
-      "screen_name" : "jpmens",
-      "protected" : false,
-      "id_str" : "18669708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2831314224\/4c49f1d983dfe1cfea4f44f0e6801e1d_normal.png",
-      "id" : 18669708,
-      "verified" : false
-    }
-  },
-  "id" : 873977133449785345,
-  "created_at" : "2017-06-11 18:56:00 +0000",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -3593,7 +3470,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "d_pesch",
       "protected" : false,
       "id_str" : "3620077336",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985201464766279681\/w4b6bCgQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037754129807040512\/xWVCgFlh_normal.jpg",
       "id" : 3620077336,
       "verified" : false
     }

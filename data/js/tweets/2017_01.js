@@ -247,7 +247,13 @@ Grailbird.data.tweets_2017_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Sinan \uD83D\uDC51",
+      "screen_name" : "lebenseuche",
+      "indices" : [ 3, 15 ],
+      "id_str" : "949176973422718978",
+      "id" : 949176973422718978
+    } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/lebenseuche\/status\/824665931301482496\/video\/1",
       "indices" : [ 17, 40 ],
@@ -331,11 +337,11 @@ Grailbird.data.tweets_2017_01 =
     "id" : 824665931301482496,
     "created_at" : "2017-01-26 17:10:54 +0000",
     "user" : {
-      "name" : "Paul\uD83C\uDF77",
-      "screen_name" : "Echtkeinbockmeh",
+      "name" : "Paul\uD83D\uDC51",
+      "screen_name" : "SeitenAufNuII",
       "protected" : false,
       "id_str" : "782145960088657921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009188103121227778\/3GGR962U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066301252722716672\/w44xKhug_normal.jpg",
       "id" : 782145960088657921,
       "verified" : false
     }
@@ -794,7 +800,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDDF3\uD83C\uDDF1 Zwarte Piet Is Racisme \uD83C\uDDF3\uD83C\uDDF1",
+      "name" : "@rzuaslan",
       "screen_name" : "rzuaslan",
       "indices" : [ 3, 12 ],
       "id_str" : "2423150319",
@@ -852,7 +858,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 823158887704653825,
     "created_at" : "2017-01-22 13:22:27 +0000",
     "user" : {
-      "name" : "\uD83C\uDDF3\uD83C\uDDF1 Zwarte Piet Is Racisme \uD83C\uDDF3\uD83C\uDDF1",
+      "name" : "@rzuaslan",
       "screen_name" : "rzuaslan",
       "protected" : false,
       "id_str" : "2423150319",
@@ -1076,7 +1082,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "blume_bob",
       "protected" : false,
       "id_str" : "1857703057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010964242311401474\/rB0LXNkX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063015117221191681\/63ms1V55_normal.jpg",
       "id" : 1857703057,
       "verified" : false
     }
@@ -1624,7 +1630,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "ACLU",
       "protected" : false,
       "id_str" : "13393052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012103574241751041\/oJiQCd7s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060051136151990272\/kmJHtKCM_normal.jpg",
       "id" : 13393052,
       "verified" : true
     }
@@ -1644,7 +1650,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 0, 10 ],
       "id_str" : "631849255",
@@ -1677,7 +1683,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 3, 13 ],
       "id_str" : "631849255",
@@ -1720,7 +1726,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 821403771418935299,
     "created_at" : "2017-01-17 17:08:14 +0000",
     "user" : {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "protected" : false,
       "id_str" : "631849255",
@@ -1948,7 +1954,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 0, 10 ],
       "id_str" : "631849255",
@@ -2143,7 +2149,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 0, 10 ],
       "id_str" : "631849255",
@@ -2243,7 +2249,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 1, 11 ],
       "id_str" : "631849255",
@@ -2274,7 +2280,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rechtschrei Punk",
+      "name" : "Rechtschrei Punk \uD83E\uDDF7\uD83C\uDFF4\u200D\u2620\uFE0F",
       "screen_name" : "nerbelo",
       "indices" : [ 3, 11 ],
       "id_str" : "1608082940",
@@ -2301,11 +2307,11 @@ Grailbird.data.tweets_2017_01 =
     "id" : 778858741752008704,
     "created_at" : "2016-09-22 07:29:29 +0000",
     "user" : {
-      "name" : "Rechtschrei Punk",
+      "name" : "Rechtschrei Punk \uD83E\uDDF7\uD83C\uDFF4\u200D\u2620\uFE0F",
       "screen_name" : "nerbelo",
       "protected" : false,
       "id_str" : "1608082940",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928705073005424640\/D1vMhlA__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054440026027778051\/qCNmTI6K_normal.jpg",
       "id" : 1608082940,
       "verified" : false
     }
@@ -2503,12 +2509,6 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    }, {
       "name" : "Sonja Peteranderl",
       "screen_name" : "glocalreporting",
       "indices" : [ 12, 28 ],
@@ -2519,16 +2519,11 @@ Grailbird.data.tweets_2017_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "820212924987899904",
   "geo" : { },
   "id_str" : "820233397524172801",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto @glocalreporting Warum wurde es seit April nicht gefixt?",
   "id" : 820233397524172801,
-  "in_reply_to_status_id" : 820212924987899904,
   "created_at" : "2017-01-14 11:37:35 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -2542,12 +2537,6 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    }, {
       "name" : "Sonja Peteranderl",
       "screen_name" : "glocalreporting",
       "indices" : [ 12, 28 ],
@@ -2558,16 +2547,11 @@ Grailbird.data.tweets_2017_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "820184345411551233",
   "geo" : { },
   "id_str" : "820209054786129920",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto @glocalreporting zu 2: kein Bug, sondern gew\u00FCnschtes Verhalten. Lies den Artikel ganz. Signal OK, WhatsApp kaputt.",
   "id" : 820209054786129920,
-  "in_reply_to_status_id" : 820184345411551233,
   "created_at" : "2017-01-14 10:00:52 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -2756,7 +2740,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 50, 60 ],
       "id_str" : "631849255",
@@ -2787,7 +2771,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 3, 13 ],
       "id_str" : "631849255",
@@ -2820,7 +2804,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 819941380323688448,
     "created_at" : "2017-01-13 16:17:13 +0000",
     "user" : {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "protected" : false,
       "id_str" : "631849255",
@@ -2844,7 +2828,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 0, 10 ],
       "id_str" : "631849255",
@@ -2877,7 +2861,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 17, 27 ],
       "id_str" : "631849255",
@@ -3078,7 +3062,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "seni_bl",
       "protected" : false,
       "id_str" : "1356087222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002148892119625729\/_gdnLi7l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049931350206308355\/baNiEvg4_normal.jpg",
       "id" : 1356087222,
       "verified" : false
     }
@@ -3177,7 +3161,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "c3voc",
       "protected" : false,
       "id_str" : "1655829702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940962554649759749\/Qa_5TJKT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061706849752375297\/zEY0S7JL_normal.jpg",
       "id" : 1655829702,
       "verified" : false
     }
@@ -3197,7 +3181,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -4178,7 +4162,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 18, 28 ],
       "id_str" : "631849255",
@@ -4393,7 +4377,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "eventphone",
       "protected" : false,
       "id_str" : "58766557",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/324386753\/eplogo_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064830986079404034\/NAM8_MiF_normal.jpg",
       "id" : 58766557,
       "verified" : false
     }
@@ -4551,7 +4535,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mieke",
+      "name" : "Tintenrot",
       "screen_name" : "tintenrot",
       "indices" : [ 0, 10 ],
       "id_str" : "870578712",
@@ -5264,7 +5248,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "KarlreMarks",
       "protected" : false,
       "id_str" : "25058787",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011926883628453888\/fWnaOoTg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017333958185537536\/PH6_LqSN_normal.jpg",
       "id" : 25058787,
       "verified" : true
     }

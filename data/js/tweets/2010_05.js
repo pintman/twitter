@@ -320,7 +320,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "TU_Dortmund",
       "protected" : false,
       "id_str" : "29991240",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/130477626\/tud_logo_rgb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030052137760370688\/zSex-InA_normal.jpg",
       "id" : 29991240,
       "verified" : false
     }

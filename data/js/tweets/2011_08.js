@@ -443,7 +443,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "TU_Dortmund",
       "protected" : false,
       "id_str" : "29991240",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/130477626\/tud_logo_rgb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030052137760370688\/zSex-InA_normal.jpg",
       "id" : 29991240,
       "verified" : false
     }
@@ -574,7 +574,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 24, 40 ],
       "id_str" : "16274129",

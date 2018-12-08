@@ -892,7 +892,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvar Freude",
+      "name" : "Alvar C.H. Freude",
       "screen_name" : "alvar_f",
       "indices" : [ 0, 8 ],
       "id_str" : "17290634",
@@ -2223,7 +2223,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "TiloJung",
       "protected" : false,
       "id_str" : "15903326",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937610746820726785\/BP45NCU0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058395827020935169\/rmlmSQvU_normal.jpg",
       "id" : 15903326,
       "verified" : true
     }
@@ -2523,7 +2523,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2556,7 +2556,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2589,7 +2589,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2622,7 +2622,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -2693,18 +2693,6 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 3, 14 ],
       "id_str" : "342122310",
       "id" : 342122310
-    }, {
-      "name" : "Wil 'this account mocks fascists' Wheaton",
-      "screen_name" : "wilw",
-      "indices" : [ 16, 21 ],
-      "id_str" : "1183041",
-      "id" : 1183041
-    }, {
-      "name" : "Elon Musk",
-      "screen_name" : "elonmusk",
-      "indices" : [ 22, 31 ],
-      "id_str" : "44196397",
-      "id" : 44196397
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2717,12 +2705,6 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Wil 'this account mocks fascists' Wheaton",
-        "screen_name" : "wilw",
-        "indices" : [ 0, 5 ],
-        "id_str" : "1183041",
-        "id" : 1183041
-      }, {
         "name" : "Elon Musk",
         "screen_name" : "elonmusk",
         "indices" : [ 6, 15 ],
@@ -2735,12 +2717,9 @@ Grailbird.data.tweets_2013_07 =
     },
     "geo" : { },
     "id_str" : "354698850931449856",
-    "in_reply_to_user_id" : 1183041,
     "text" : "@wilw @elonmusk An SQL query walks into a bar, approaches two tables and asks, \"Mind if I join you?\"",
     "id" : 354698850931449856,
     "created_at" : "2013-07-09 20:29:30 +0000",
-    "in_reply_to_screen_name" : "wilw",
-    "in_reply_to_user_id_str" : "1183041",
     "user" : {
       "name" : "Steven",
       "screen_name" : "frieddiode",
@@ -2817,7 +2796,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "mudron",
       "protected" : false,
       "id_str" : "18518084",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945680347236204545\/p2JorK7j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068779885693329410\/9JQnCCk6_normal.jpg",
       "id" : 18518084,
       "verified" : false
     }
@@ -2981,7 +2960,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felix Schaumburg \uD589\uBCF5\uD55C",
+      "name" : "Felix Schaumburg-Blum",
       "screen_name" : "schb",
       "indices" : [ 0, 5 ],
       "id_str" : "15023315",
@@ -3014,7 +2993,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "H. Schneider",
+      "name" : "Hokey",
       "screen_name" : "Hokeys",
       "indices" : [ 0, 7 ],
       "id_str" : "9383462",
@@ -3558,7 +3537,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012002608523800577\/DZ-3SYA8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018552942670966784\/0Zflj6Y__normal.jpg",
       "id" : 86390214,
       "verified" : true
     }

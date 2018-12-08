@@ -3,7 +3,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eleanor @ QC Secretariat",
+      "name" : "eleanor",
       "screen_name" : "noneuclideangrl",
       "indices" : [ 3, 19 ],
       "id_str" : "721987063113867264",
@@ -92,11 +92,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 902714719236046848,
     "created_at" : "2017-08-30 02:08:55 +0000",
     "user" : {
-      "name" : "eleanor @ QC Secretariat",
+      "name" : "eleanor",
       "screen_name" : "noneuclideangrl",
       "protected" : false,
       "id_str" : "721987063113867264",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004946619198894080\/KQ1D2U68_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036106169662590976\/lBbgD3Ri_normal.jpg",
       "id" : 721987063113867264,
       "verified" : false
     }
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam O'Grady",
+      "name" : "Published Author Adam O'Grady",
       "screen_name" : "adamjogrady",
       "indices" : [ 3, 15 ],
       "id_str" : "155830878",
@@ -260,11 +260,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 902351152460701697,
     "created_at" : "2017-08-29 02:04:14 +0000",
     "user" : {
-      "name" : "Adam O'Grady",
+      "name" : "Published Author Adam O'Grady",
       "screen_name" : "adamjogrady",
       "protected" : false,
       "id_str" : "155830878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012151873988489217\/fzjMjPf9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059671250803421184\/z6G9tkxg_normal.jpg",
       "id" : 155830878,
       "verified" : false
     }
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1711,7 +1711,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "797183803554983940",
       "id" : 797183803554983940
     }, {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 9, 16 ],
       "id_str" : "1735041",
@@ -2307,7 +2307,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "626731161",
       "id" : 626731161
     }, {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 8, 18 ],
       "id_str" : "12884262",
@@ -3359,7 +3359,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -3392,7 +3392,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",

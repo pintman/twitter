@@ -434,7 +434,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The MagPi",
+      "name" : "The MagPi magazine",
       "screen_name" : "TheMagPi",
       "indices" : [ 0, 9 ],
       "id_str" : "550247610",
@@ -802,7 +802,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 3, 13 ],
       "id_str" : "12884262",
@@ -839,7 +839,7 @@ Grailbird.data.tweets_2018_06 =
     "id" : 1006297829080535040,
     "created_at" : "2018-06-11 22:11:13 +0000",
     "user" : {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "protected" : false,
       "id_str" : "12884262",
@@ -1309,13 +1309,13 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
       "id" : 12884262
     }, {
-      "name" : "\uD835\uDCB6\uD835\uDCC8\uD835\uDCBD\uD835\uDCBE \uD835\uDCC0\uD835\uDCC7\uD835\uDCBE\uD835\uDCC8\uD835\uDCBD\uD835\uDCC3\uD835\uDCB6\uD835\uDCC3",
+      "name" : "ashi krishnan",
       "screen_name" : "rakshesha",
       "indices" : [ 11, 21 ],
       "id_str" : "14271101",
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "ProfFeynman",
       "protected" : false,
       "id_str" : "823518894182846464",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008693968677134337\/8hDQhdXA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070375105426010112\/I4NrH_4m_normal.jpg",
       "id" : 823518894182846464,
       "verified" : false
     }

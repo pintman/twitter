@@ -600,7 +600,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "BlessTheTeacher",
       "protected" : false,
       "id_str" : "89663825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524569936\/2009-09_-_Interview_Pat_Christ_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062296294838935552\/cWXT2Z6Z_normal.jpg",
       "id" : 89663825,
       "verified" : false
     }
@@ -1289,7 +1289,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "tiny_tales",
       "protected" : false,
       "id_str" : "81557298",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517913245\/tinytales_thumb_neu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035405512941219840\/g-43ctbk_normal.jpg",
       "id" : 81557298,
       "verified" : false
     }

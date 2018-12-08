@@ -63,7 +63,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Informatikradar",
+      "name" : "Gesellschaft f\u00FCr Informatik",
       "screen_name" : "informatikradar",
       "indices" : [ 3, 19 ],
       "id_str" : "19974744",
@@ -95,7 +95,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 261814656933437440,
     "created_at" : "2012-10-26 13:00:53 +0000",
     "user" : {
-      "name" : "Informatikradar",
+      "name" : "Gesellschaft f\u00FCr Informatik",
       "screen_name" : "informatikradar",
       "protected" : false,
       "id_str" : "19974744",

@@ -922,7 +922,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "worrydream",
       "protected" : false,
       "id_str" : "255617445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002702301243379712\/e467_sYU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041396630816088065\/EgxEi4PY_normal.jpg",
       "id" : 255617445,
       "verified" : false
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "dasnuf",
       "protected" : false,
       "id_str" : "12210492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876860119102959616\/ve226PJM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058270069304762370\/_Gbo7fzm_normal.jpg",
       "id" : 12210492,
       "verified" : true
     }
@@ -1117,7 +1117,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -1795,7 +1795,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 602494488024494084,
     "created_at" : "2015-05-24 15:20:54 +0000",
     "user" : {
-      "name" : "dwnews",
+      "name" : "DW News",
       "screen_name" : "dwnews",
       "protected" : false,
       "id_str" : "6134882",
@@ -2960,7 +2960,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android Tablets\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dominik George \uD83D\uDC3F",
+      "name" : "Dominik George \uD83D\uDC3F\uD83C\uDF08",
       "screen_name" : "Natureshadow",
       "indices" : [ 0, 13 ],
       "id_str" : "22984720",
@@ -3574,7 +3574,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "Herr_Rau",
       "protected" : false,
       "id_str" : "15499762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939425810435407872\/ninSf5eb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050028177115029504\/2g8h-ZdC_normal.jpg",
       "id" : 15499762,
       "verified" : false
     }
@@ -4026,7 +4026,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "2520504858",
       "id" : 2520504858
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 10, 19 ],
       "id_str" : "17154029",
@@ -5859,7 +5859,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -5996,7 +5996,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "1114194576",
       "id" : 1114194576
     }, {
-      "name" : "Dustbin Beaver",
+      "name" : "..:..",
       "screen_name" : "silenttiffy",
       "indices" : [ 37, 49 ],
       "id_str" : "25322930",
@@ -6050,7 +6050,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dustbin Beaver",
+        "name" : "..:..",
         "screen_name" : "silenttiffy",
         "indices" : [ 23, 35 ],
         "id_str" : "25322930",
@@ -6107,7 +6107,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "dieKadda",
       "protected" : false,
       "id_str" : "1114194576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879640676899729409\/VljsCGVS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029828482535247872\/OmmVLu3u_normal.jpg",
       "id" : 1114194576,
       "verified" : false
     }
@@ -6567,7 +6567,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "267791906",
       "id" : 267791906
     }, {
-      "name" : "Brett Terpstra did not install iOS 12",
+      "name" : "Sure, Brett Terpstra is happy to wait on hold",
       "screen_name" : "ttscoff",
       "indices" : [ 17, 25 ],
       "id_str" : "777908",
@@ -6980,7 +6980,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -8028,7 +8028,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rebecca ''Abolish ICE'' Cohen",
+      "name" : "Rebecca Cohen",
       "screen_name" : "GynoStar",
       "indices" : [ 3, 12 ],
       "id_str" : "185390750",
@@ -8113,7 +8113,7 @@ Grailbird.data.tweets_2015_05 =
     "in_reply_to_screen_name" : "femfreq",
     "in_reply_to_user_id_str" : "56768257",
     "user" : {
-      "name" : "Rebecca ''Abolish ICE'' Cohen",
+      "name" : "Rebecca Cohen",
       "screen_name" : "GynoStar",
       "protected" : false,
       "id_str" : "185390750",
@@ -8167,7 +8167,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 99, 108 ],
       "id_str" : "17154029",

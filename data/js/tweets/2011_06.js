@@ -868,7 +868,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2671 Lars Golenia \u2671",
+      "name" : "Lars Golenia",
       "screen_name" : "larsgolenia",
       "indices" : [ 0, 12 ],
       "id_str" : "42109403",

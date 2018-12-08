@@ -263,7 +263,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nebengleis",
+      "name" : "Kleine Wespe Idefix",
       "screen_name" : "nebengleis",
       "indices" : [ 3, 14 ],
       "id_str" : "899775882",
@@ -290,7 +290,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 868751353916665856,
     "created_at" : "2017-05-28 08:50:38 +0000",
     "user" : {
-      "name" : "nebengleis",
+      "name" : "Kleine Wespe Idefix",
       "screen_name" : "nebengleis",
       "protected" : false,
       "id_str" : "899775882",
@@ -622,7 +622,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "c3voc",
       "protected" : false,
       "id_str" : "1655829702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940962554649759749\/Qa_5TJKT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061706849752375297\/zEY0S7JL_normal.jpg",
       "id" : 1655829702,
       "verified" : false
     }
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sk\u028Clkat",
+      "name" : "skullcat",
       "screen_name" : "mrmrs_",
       "indices" : [ 3, 10 ],
       "id_str" : "316589445",
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 866067646357352448,
     "created_at" : "2017-05-20 23:06:32 +0000",
     "user" : {
-      "name" : "sk\u028Clkat",
+      "name" : "skullcat",
       "screen_name" : "mrmrs_",
       "protected" : false,
       "id_str" : "316589445",
@@ -1264,7 +1264,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. Joan de Gracia",
+      "name" : "\uD83C\uDF97\uD83C\uDF97 Dr. Joan de Gracia \uD83C\uDF97\uD83C\uDF97",
       "screen_name" : "jdegra",
       "indices" : [ 3, 10 ],
       "id_str" : "14079548",
@@ -1353,11 +1353,11 @@ Grailbird.data.tweets_2017_05 =
     "id" : 865947512376619012,
     "created_at" : "2017-05-20 15:09:10 +0000",
     "user" : {
-      "name" : "Dr. Joan de Gracia",
+      "name" : "\uD83C\uDF97\uD83C\uDF97 Dr. Joan de Gracia \uD83C\uDF97\uD83C\uDF97",
       "screen_name" : "jdegra",
       "protected" : false,
       "id_str" : "14079548",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001689841216651270\/Qy_-6blq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057154156170039296\/Jgoy8HJA_normal.jpg",
       "id" : 14079548,
       "verified" : false
     }
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nixCraft",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "indices" : [ 3, 12 ],
       "id_str" : "17484680",
@@ -1881,7 +1881,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 864720577805787136,
     "created_at" : "2017-05-17 05:53:46 +0000",
     "user" : {
-      "name" : "nixCraft",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "protected" : false,
       "id_str" : "17484680",
@@ -1944,7 +1944,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2304,7 +2304,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "KiPos_info",
       "protected" : false,
       "id_str" : "57045905",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1136121509\/88b1954d-5c30-4ba2-a166-5c1ec63eeb93_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038744687870398464\/Xq4gwOmR_normal.jpg",
       "id" : 57045905,
       "verified" : false
     }
@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 0, 7 ],
       "id_str" : "1735041",
@@ -2396,7 +2396,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "indices" : [ 3, 13 ],
       "id_str" : "631849255",
@@ -2482,7 +2482,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 864001151754174464,
     "created_at" : "2017-05-15 06:15:01 +0000",
     "user" : {
-      "name" : "\u03C0++  \u27E8Nov. 3, Trier\u27E9 Pi and More",
+      "name" : "\u03C0++  \u27E8Apr. 6, Krefeld\u27E9 Pi and More",
       "screen_name" : "PiAndMore",
       "protected" : false,
       "id_str" : "631849255",
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Linuzifer",
+      "name" : "linuzifer",
       "screen_name" : "Linuzifer",
       "indices" : [ 3, 13 ],
       "id_str" : "49579575",
@@ -2753,7 +2753,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 863406990667780096,
     "created_at" : "2017-05-13 14:54:02 +0000",
     "user" : {
-      "name" : "Linuzifer",
+      "name" : "linuzifer",
       "screen_name" : "Linuzifer",
       "protected" : false,
       "id_str" : "49579575",
@@ -3088,7 +3088,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "46625680",
       "id" : 46625680
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 10, 19 ],
       "id_str" : "17154029",
@@ -3332,7 +3332,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "iamdevloper",
       "protected" : false,
       "id_str" : "564919357",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071055431215276033\/U9-RIlDs_normal.jpg",
       "id" : 564919357,
       "verified" : false
     }
@@ -4605,7 +4605,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Jesteresse",
       "protected" : false,
       "id_str" : "55538584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979773536272375808\/IgvkFpWi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039236127331364869\/EaCSZ84j_normal.jpg",
       "id" : 55538584,
       "verified" : false
     }

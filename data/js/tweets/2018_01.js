@@ -204,7 +204,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lausebengel\u2122\uFE0F",
+      "name" : "dr. l\u03B1\u03C5\u0455e\u0432e\u0274\u0262el",
       "screen_name" : "Lauseb_engel",
       "indices" : [ 3, 16 ],
       "id_str" : "2633345939",
@@ -231,11 +231,11 @@ Grailbird.data.tweets_2018_01 =
     "id" : 958031457930399745,
     "created_at" : "2018-01-29 17:37:53 +0000",
     "user" : {
-      "name" : "Lausebengel\u2122\uFE0F",
+      "name" : "dr. l\u03B1\u03C5\u0455e\u0432e\u0274\u0262el",
       "screen_name" : "Lauseb_engel",
       "protected" : false,
       "id_str" : "2633345939",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012003223845130247\/fuKjpwqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068890774853558272\/yK4E7cKh_normal.jpg",
       "id" : 2633345939,
       "verified" : false
     }
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2018_01 =
       "id_str" : "1410466843",
       "id" : 1410466843
     }, {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 15, 22 ],
       "id_str" : "1735041",
@@ -2127,7 +2127,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -3553,7 +3553,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "c3voc",
       "protected" : false,
       "id_str" : "1655829702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940962554649759749\/Qa_5TJKT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061706849752375297\/zEY0S7JL_normal.jpg",
       "id" : 1655829702,
       "verified" : false
     }
@@ -3573,7 +3573,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -3768,7 +3768,7 @@ Grailbird.data.tweets_2018_01 =
       "id_str" : "226943381",
       "id" : 226943381
     }, {
-      "name" : "luftdaten.info \uD83E\uDD16",
+      "name" : "luftdaten.info",
       "screen_name" : "luftdaten",
       "indices" : [ 23, 33 ],
       "id_str" : "798769917449281537",
@@ -3847,7 +3847,7 @@ Grailbird.data.tweets_2018_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "luftdaten.info \uD83E\uDD16",
+        "name" : "luftdaten.info",
         "screen_name" : "luftdaten",
         "indices" : [ 4, 14 ],
         "id_str" : "798769917449281537",

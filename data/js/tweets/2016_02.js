@@ -96,7 +96,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falls du es verpasst hast:",
+      "name" : "Ich hab's ja gesagt:",
       "screen_name" : "jottes",
       "indices" : [ 0, 7 ],
       "id_str" : "267772916",
@@ -1604,7 +1604,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "crstinasyang",
       "protected" : false,
       "id_str" : "2362545782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754712262489681921\/IW1CXzDm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062026337567686656\/aOSqYLwS_normal.jpg",
       "id" : 2362545782,
       "verified" : false
     }
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "dwdavison9318",
       "protected" : false,
       "id_str" : "714494928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993673477327589376\/3L8sig-U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040663132035842049\/WGc8tddq_normal.jpg",
       "id" : 714494928,
       "verified" : false
     }

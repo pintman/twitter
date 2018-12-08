@@ -488,7 +488,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "AJBousquet",
       "protected" : false,
       "id_str" : "557282198",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533949732050042880\/6v0jzEA7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019665297639378949\/Tw4uzTpZ_normal.jpg",
       "id" : 557282198,
       "verified" : false
     }
@@ -615,27 +615,16 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "779954091791360000",
   "geo" : { },
   "id_str" : "779981970205974528",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto Das war nicht die Argumentation der Bank.",
   "id" : 779981970205974528,
-  "in_reply_to_status_id" : 779954091791360000,
   "created_at" : "2016-09-25 09:52:47 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -901,27 +890,16 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "779777916666273792",
   "geo" : { },
   "id_str" : "779812881621737472",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto Bargeldauszahlung vom eigenen Konto. Schau ruhig ins Video.",
   "id" : 779812881621737472,
-  "in_reply_to_status_id" : 779777916666273792,
   "created_at" : "2016-09-24 22:40:53 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -1087,7 +1065,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -1240,7 +1218,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "iamdevloper",
       "protected" : false,
       "id_str" : "564919357",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071055431215276033\/U9-RIlDs_normal.jpg",
       "id" : 564919357,
       "verified" : false
     }
@@ -2576,7 +2554,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Linuzifer",
+      "name" : "linuzifer",
       "screen_name" : "Linuzifer",
       "indices" : [ 0, 10 ],
       "id_str" : "49579575",
@@ -2834,7 +2812,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "worrydream",
       "protected" : false,
       "id_str" : "255617445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002702301243379712\/e467_sYU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041396630816088065\/EgxEi4PY_normal.jpg",
       "id" : 255617445,
       "verified" : false
     }
@@ -2892,57 +2870,6 @@ Grailbird.data.tweets_2016_09 =
   },
   "id" : 775238251791745024,
   "created_at" : "2016-09-12 07:42:57 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "taylor. | a queer. | BDE.",
-      "screen_name" : "PLAIDvillain",
-      "indices" : [ 3, 16 ],
-      "id_str" : "254284985",
-      "id" : 254284985
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "775237663150473216",
-  "text" : "RT @PLAIDvillain: RIP to all the innocent people that died on this day.\n\nRIP to all the innocent people that died because of this day.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "774973023589924864",
-    "text" : "RIP to all the innocent people that died on this day.\n\nRIP to all the innocent people that died because of this day.",
-    "id" : 774973023589924864,
-    "created_at" : "2016-09-11 14:09:01 +0000",
-    "user" : {
-      "name" : "taylor. | a queer. | BDE.",
-      "screen_name" : "PLAIDvillain",
-      "protected" : false,
-      "id_str" : "254284985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012041844014739456\/0_jyQVzY_normal.jpg",
-      "id" : 254284985,
-      "verified" : false
-    }
-  },
-  "id" : 775237663150473216,
-  "created_at" : "2016-09-12 07:40:36 +0000",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -3076,7 +3003,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "BrandyLJensen",
       "protected" : false,
       "id_str" : "3099901028",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011948357026238466\/IGoygPy5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060616687324667904\/Tx8bFpWj_normal.jpg",
       "id" : 3099901028,
       "verified" : false
     }
@@ -3096,7 +3023,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -3336,7 +3263,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 3, 13 ],
       "id_str" : "14700783",
@@ -3363,7 +3290,7 @@ Grailbird.data.tweets_2016_09 =
     "id" : 774656623038136320,
     "created_at" : "2016-09-10 17:11:46 +0000",
     "user" : {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "protected" : false,
       "id_str" : "14700783",
@@ -4061,12 +3988,6 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "IFA.ARD",
-      "screen_name" : "IFA_ARD",
-      "indices" : [ 0, 8 ],
-      "id_str" : "3437795974",
-      "id" : 3437795974
-    }, {
       "name" : "tagesschau",
       "screen_name" : "tagesschau",
       "indices" : [ 9, 20 ],
@@ -4085,7 +4006,7 @@ Grailbird.data.tweets_2016_09 =
   "id" : 772039958647406592,
   "in_reply_to_status_id" : 772008171749642240,
   "created_at" : "2016-09-03 11:54:04 +0000",
-  "in_reply_to_screen_name" : "IFA_ARD",
+  "in_reply_to_screen_name" : "ARD_IFA",
   "in_reply_to_user_id_str" : "3437795974",
   "user" : {
     "name" : "Pintman",
@@ -4193,7 +4114,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "ElenaEpaneshnik",
       "protected" : false,
       "id_str" : "492919233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919265900351680512\/N0eOzS0C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037494203700404225\/G9DMZJ0A_normal.jpg",
       "id" : 492919233,
       "verified" : false
     }

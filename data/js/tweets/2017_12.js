@@ -550,7 +550,13 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "35C3 Lounge",
+      "screen_name" : "c3lounge",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1052495845654966272",
+      "id" : 1052495845654966272
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -572,7 +578,13 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "35C3 Lounge",
+      "screen_name" : "c3lounge",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1052495845654966272",
+      "id" : 1052495845654966272
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1270,7 +1282,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "c3daysleft",
       "protected" : false,
       "id_str" : "2272176446",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940350285947523072\/4_gCZSue_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060172362887372800\/6cQz1CWi_normal.jpg",
       "id" : 2272176446,
       "verified" : false
     }
@@ -1584,7 +1596,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teubi",
+      "name" : "teubi@chaos.social",
       "screen_name" : "DasTeutelbier",
       "indices" : [ 3, 17 ],
       "id_str" : "799295587564867584",
@@ -1679,136 +1691,17 @@ Grailbird.data.tweets_2017_12 =
     "id" : 943035289945214976,
     "created_at" : "2017-12-19 08:28:28 +0000",
     "user" : {
-      "name" : "teubi",
+      "name" : "teubi@chaos.social",
       "screen_name" : "DasTeutelbier",
       "protected" : false,
       "id_str" : "799295587564867584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980710217032847360\/jCarNLLg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068581339123904512\/cn2vUqiB_normal.jpg",
       "id" : 799295587564867584,
       "verified" : false
     }
   },
   "id" : 944569370113724417,
   "created_at" : "2017-12-23 14:04:21 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "da_waschtl",
-      "screen_name" : "da_waschtl",
-      "indices" : [ 3, 14 ],
-      "id_str" : "3411343756",
-      "id" : 3411343756
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/da_waschtl\/status\/944167754608840704\/photo\/1",
-      "indices" : [ 49, 72 ],
-      "url" : "https:\/\/t.co\/iFaINrM3WE",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DRpbjCKXcAARZfT.jpg",
-      "id_str" : "944167729321439232",
-      "id" : 944167729321439232,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DRpbjCKXcAARZfT.jpg",
-      "sizes" : [ {
-        "h" : 1344,
-        "resize" : "fit",
-        "w" : 5136
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 314,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 178,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 536,
-        "resize" : "fit",
-        "w" : 2048
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/iFaINrM3WE"
-    } ],
-    "hashtags" : [ {
-      "text" : "34C3",
-      "indices" : [ 16, 21 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "944569008468254720",
-  "text" : "RT @da_waschtl: #34C3 das ist er - der Saal A :) https:\/\/t.co\/iFaINrM3WE",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/da_waschtl\/status\/944167754608840704\/photo\/1",
-        "indices" : [ 33, 56 ],
-        "url" : "https:\/\/t.co\/iFaINrM3WE",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DRpbjCKXcAARZfT.jpg",
-        "id_str" : "944167729321439232",
-        "id" : 944167729321439232,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DRpbjCKXcAARZfT.jpg",
-        "sizes" : [ {
-          "h" : 1344,
-          "resize" : "fit",
-          "w" : 5136
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 314,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 178,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 536,
-          "resize" : "fit",
-          "w" : 2048
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/iFaINrM3WE"
-      } ],
-      "hashtags" : [ {
-        "text" : "34C3",
-        "indices" : [ 0, 5 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "944167754608840704",
-    "text" : "#34C3 das ist er - der Saal A :) https:\/\/t.co\/iFaINrM3WE",
-    "id" : 944167754608840704,
-    "created_at" : "2017-12-22 11:28:29 +0000",
-    "user" : {
-      "name" : "da_waschtl",
-      "screen_name" : "da_waschtl",
-      "protected" : false,
-      "id_str" : "3411343756",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
-      "id" : 3411343756,
-      "verified" : false
-    }
-  },
-  "id" : 944569008468254720,
-  "created_at" : "2017-12-23 14:02:55 +0000",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -2755,7 +2648,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "F. G. Klopstock",
+      "name" : "\uD83C\uDFA0 Verwahrlosung \uD83C\uDFA0",
       "screen_name" : "lasermaki",
       "indices" : [ 3, 13 ],
       "id_str" : "19072041",
@@ -2782,7 +2675,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 939619044621242369,
     "created_at" : "2017-12-09 22:13:32 +0000",
     "user" : {
-      "name" : "F. G. Klopstock",
+      "name" : "\uD83C\uDFA0 Verwahrlosung \uD83C\uDFA0",
       "screen_name" : "lasermaki",
       "protected" : false,
       "id_str" : "19072041",
@@ -3078,7 +2971,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Von Kronenberg \uD83D\uDC7E",
+      "name" : "Von Kronenberg \uD83D\uDC54",
       "screen_name" : "VonKronenberg",
       "indices" : [ 3, 17 ],
       "id_str" : "1244963958",
@@ -3173,7 +3066,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 938680954398404608,
     "created_at" : "2017-12-07 08:05:54 +0000",
     "user" : {
-      "name" : "Von Kronenberg \uD83D\uDC7E",
+      "name" : "Von Kronenberg \uD83D\uDC54",
       "screen_name" : "VonKronenberg",
       "protected" : false,
       "id_str" : "1244963958",
@@ -3354,7 +3247,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "seecurity",
       "protected" : false,
       "id_str" : "322541500",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860604894155288576\/MsIRo6IL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039959256290787328\/H8gM87K7_normal.jpg",
       "id" : 322541500,
       "verified" : false
     }

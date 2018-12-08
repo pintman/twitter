@@ -313,7 +313,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "likedeel",
       "protected" : false,
       "id_str" : "202336478",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000516783203\/2e2e003b459fab473069c2d55b6028d2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035627672876052481\/61_HjfdS_normal.jpg",
       "id" : 202336478,
       "verified" : false
     }
@@ -612,7 +612,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nutellagangbang",
+      "name" : "antifaschist",
       "screen_name" : "nutellagangbang",
       "indices" : [ 3, 19 ],
       "id_str" : "113119960",
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 292034269805690880,
     "created_at" : "2013-01-17 22:22:50 +0000",
     "user" : {
-      "name" : "nutellagangbang",
+      "name" : "antifaschist",
       "screen_name" : "nutellagangbang",
       "protected" : false,
       "id_str" : "113119960",
@@ -1633,7 +1633,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "Mattata90",
       "protected" : false,
       "id_str" : "474951553",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005885700699549697\/HKpVBjA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061664517048987648\/DBMXn5nu_normal.jpg",
       "id" : 474951553,
       "verified" : false
     }
@@ -2011,7 +2011,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2671 Lars Golenia \u2671",
+      "name" : "Lars Golenia",
       "screen_name" : "larsgolenia",
       "indices" : [ 0, 12 ],
       "id_str" : "42109403",

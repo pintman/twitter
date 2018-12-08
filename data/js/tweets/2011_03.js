@@ -238,7 +238,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "videopunk",
       "protected" : false,
       "id_str" : "14218281",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902424503883587584\/3QdG0obx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022952749821054976\/QdGSnmQI_normal.jpg",
       "id" : 14218281,
       "verified" : true
     }

@@ -618,7 +618,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bildschirmtext S01E01",
+      "name" : "Creative Industries Tycoon 2022",
       "screen_name" : "guenterhack",
       "indices" : [ 3, 15 ],
       "id_str" : "1760561",
@@ -645,7 +645,7 @@ Grailbird.data.tweets_2018_04 =
     "id" : 987596741666066432,
     "created_at" : "2018-04-21 07:39:46 +0000",
     "user" : {
-      "name" : "Mr. Bildschirmtext S01E01",
+      "name" : "Creative Industries Tycoon 2022",
       "screen_name" : "guenterhack",
       "protected" : false,
       "id_str" : "1760561",
@@ -1161,7 +1161,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "PhilippOtto",
       "protected" : false,
       "id_str" : "40187679",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977921504510963712\/XuS1VrHp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056434700540092416\/Kf78X2Zp_normal.jpg",
       "id" : 40187679,
       "verified" : false
     }
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Der Tastenzeux",
+      "name" : "Stefan Tastenzeux",
       "screen_name" : "tastenzeux",
       "indices" : [ 3, 14 ],
       "id_str" : "3320778413",
@@ -1270,11 +1270,11 @@ Grailbird.data.tweets_2018_04 =
     "id" : 985125159131602944,
     "created_at" : "2018-04-14 11:58:35 +0000",
     "user" : {
-      "name" : "Der Tastenzeux",
+      "name" : "Stefan Tastenzeux",
       "screen_name" : "tastenzeux",
       "protected" : false,
       "id_str" : "3320778413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957302998979489793\/Zk_a0IEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023242053507903488\/LIRl3hxv_normal.jpg",
       "id" : 3320778413,
       "verified" : false
     }
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sean \uD835\uDCAA",
+      "name" : "Sea\u03B7 O",
       "screen_name" : "seanodotcom",
       "indices" : [ 3, 15 ],
       "id_str" : "812569",
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2018_04 =
     "id" : 984090635836719104,
     "created_at" : "2018-04-11 15:27:45 +0000",
     "user" : {
-      "name" : "Sean \uD835\uDCAA",
+      "name" : "Sea\u03B7 O",
       "screen_name" : "seanodotcom",
       "protected" : false,
       "id_str" : "812569",

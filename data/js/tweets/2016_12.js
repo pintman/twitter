@@ -271,7 +271,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "0xBEEF",
+      "name" : "0xBEEF \uD83E\uDD69",
       "screen_name" : "philgates",
       "indices" : [ 3, 13 ],
       "id_str" : "12337902",
@@ -366,11 +366,11 @@ Grailbird.data.tweets_2016_12 =
     "id" : 814135542250176512,
     "created_at" : "2016-12-28 15:46:53 +0000",
     "user" : {
-      "name" : "0xBEEF",
+      "name" : "0xBEEF \uD83E\uDD69",
       "screen_name" : "philgates",
       "protected" : false,
       "id_str" : "12337902",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724266395781988352\/t_1pRSLy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069365362561560576\/y22QzcxO_normal.jpg",
       "id" : 12337902,
       "verified" : false
     }
@@ -1282,7 +1282,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "hermes3s",
       "protected" : false,
       "id_str" : "101582133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945890520559169536\/KVm7AQXQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057856135166865409\/NgtzFrAC_normal.jpg",
       "id" : 101582133,
       "verified" : false
     }
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Fripi",
       "protected" : false,
       "id_str" : "28974746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009050172049981440\/s7MYG35K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035084487233871874\/Ujgf4P2r_normal.jpg",
       "id" : 28974746,
       "verified" : false
     }
@@ -1876,27 +1876,16 @@ Grailbird.data.tweets_2016_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "810235703359639552",
   "geo" : { },
   "id_str" : "810482832023949312",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto Still running it? ;)",
   "id" : 810482832023949312,
-  "in_reply_to_status_id" : 810235703359639552,
   "created_at" : "2016-12-18 13:52:19 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -2614,7 +2603,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "iamdevloper",
       "protected" : false,
       "id_str" : "564919357",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071055431215276033\/U9-RIlDs_normal.jpg",
       "id" : 564919357,
       "verified" : false
     }

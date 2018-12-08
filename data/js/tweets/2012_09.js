@@ -466,7 +466,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "twitkalk",
       "protected" : false,
       "id_str" : "395595454",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009276928459788293\/6bQjcDDF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061948307839299586\/UTR6dXEQ_normal.jpg",
       "id" : 395595454,
       "verified" : true
     }
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 0, 16 ],
       "id_str" : "16274129",
@@ -767,7 +767,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 3, 13 ],
       "id_str" : "14700783",
@@ -794,7 +794,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 244769351054553088,
     "created_at" : "2012-09-09 12:08:55 +0000",
     "user" : {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "protected" : false,
       "id_str" : "14700783",
@@ -869,7 +869,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "purrrlegon",
+      "name" : "ofenwarmes brot",
       "screen_name" : "pulegon",
       "indices" : [ 3, 11 ],
       "id_str" : "107502279",
@@ -896,7 +896,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 244520971199987712,
     "created_at" : "2012-09-08 19:41:57 +0000",
     "user" : {
-      "name" : "purrrlegon",
+      "name" : "ofenwarmes brot",
       "screen_name" : "pulegon",
       "protected" : false,
       "id_str" : "107502279",

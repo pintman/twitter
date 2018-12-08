@@ -852,7 +852,7 @@ Grailbird.data.tweets_2015_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1518,7 +1518,7 @@ Grailbird.data.tweets_2015_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1549,7 +1549,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GamesYouLoved",
+      "name" : "#ChristmasYouLoved \uD83C\uDF84\u2728\u26C4\uFE0F",
       "screen_name" : "gamesyouloved",
       "indices" : [ 3, 17 ],
       "id_str" : "965069406",
@@ -1625,11 +1625,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 566615057204015104,
     "created_at" : "2015-02-14 15:08:51 +0000",
     "user" : {
-      "name" : "GamesYouLoved",
+      "name" : "#ChristmasYouLoved \uD83C\uDF84\u2728\u26C4\uFE0F",
       "screen_name" : "gamesyouloved",
       "protected" : false,
       "id_str" : "965069406",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945796813285740544\/LSzpV5JE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068660101928632325\/LTgJFzCZ_normal.jpg",
       "id" : 965069406,
       "verified" : false
     }
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2015_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nina S.",
+      "name" : "Nachtrose",
       "screen_name" : "Nachtrose",
       "indices" : [ 0, 10 ],
       "id_str" : "22361212",
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Mancino-Williams",
+      "name" : "Seasonal Mancino-Williams",
       "screen_name" : "Manda_like_wine",
       "indices" : [ 3, 19 ],
       "id_str" : "589621591",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564080910664863744,
     "created_at" : "2015-02-07 15:19:03 +0000",
     "user" : {
-      "name" : "A Mancino-Williams",
+      "name" : "Seasonal Mancino-Williams",
       "screen_name" : "Manda_like_wine",
       "protected" : false,
       "id_str" : "589621591",
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2015_02 =
   "id_str" : "562268470277308416",
   "text" : "RT @diasp_de: Wie Facebook, nur besser http:\/\/t.co\/BXYGVjBwIX @golem",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/diasp.de\" rel=\"nofollow\"\u003Ediasp.de\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Golem.de",

@@ -1343,11 +1343,11 @@ Grailbird.data.tweets_2013_11 =
     "id" : 401429702792855552,
     "created_at" : "2013-11-15 19:21:14 +0000",
     "user" : {
-      "name" : "this is this",
+      "name" : "dies ist dies",
       "screen_name" : "barbcore",
       "protected" : false,
       "id_str" : "45550668",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950868661014876160\/5qDH1uuM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043621320985071616\/YO8k8YbQ_normal.jpg",
       "id" : 45550668,
       "verified" : false
     }
@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "anathem",
       "protected" : false,
       "id_str" : "287761908",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014377022074884096\/V-0BEn0p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071438023156473856\/JGohrmwU_normal.jpg",
       "id" : 287761908,
       "verified" : false
     }
@@ -1962,126 +1962,13 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "GeorgeTakei",
       "protected" : false,
       "id_str" : "237845487",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885170691846414339\/-08XzXKy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060203717767651328\/GXNGqcfZ_normal.jpg",
       "id" : 237845487,
       "verified" : true
     }
   },
   "id" : 397850847482478592,
   "created_at" : "2013-11-05 22:20:08 +0000",
-  "user" : {
-    "name" : "Pintman",
-    "screen_name" : "pintman",
-    "protected" : false,
-    "id_str" : "15328265",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912393911007694848\/i4Eq41B9_normal.jpg",
-    "id" : 15328265,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Schon viel zu lange hier",
-      "screen_name" : "Hardcoresofti",
-      "indices" : [ 3, 17 ],
-      "id_str" : "221263484",
-      "id" : 221263484
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Hardcoresofti\/status\/397305724448948224\/photo\/1",
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/51apktPCAV",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BYODc41CQAAMStR.jpg",
-      "id_str" : "397305724453142528",
-      "id" : 397305724453142528,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYODc41CQAAMStR.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 491,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 644,
-        "resize" : "fit",
-        "w" : 892
-      }, {
-        "h" : 644,
-        "resize" : "fit",
-        "w" : 892
-      }, {
-        "h" : 644,
-        "resize" : "fit",
-        "w" : 892
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/51apktPCAV"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "397850656050262017",
-  "text" : "RT @Hardcoresofti: Guten Morgen. Soweit hat die Emanzipation uns schon gebracht. Unglaublich: http:\/\/t.co\/51apktPCAV",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/Hardcoresofti\/status\/397305724448948224\/photo\/1",
-        "indices" : [ 75, 97 ],
-        "url" : "http:\/\/t.co\/51apktPCAV",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BYODc41CQAAMStR.jpg",
-        "id_str" : "397305724453142528",
-        "id" : 397305724453142528,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYODc41CQAAMStR.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 491,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 644,
-          "resize" : "fit",
-          "w" : 892
-        }, {
-          "h" : 644,
-          "resize" : "fit",
-          "w" : 892
-        }, {
-          "h" : 644,
-          "resize" : "fit",
-          "w" : 892
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/51apktPCAV"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "397305724448948224",
-    "text" : "Guten Morgen. Soweit hat die Emanzipation uns schon gebracht. Unglaublich: http:\/\/t.co\/51apktPCAV",
-    "id" : 397305724448948224,
-    "created_at" : "2013-11-04 10:14:01 +0000",
-    "user" : {
-      "name" : "Schon viel zu lange hier",
-      "screen_name" : "Hardcoresofti",
-      "protected" : false,
-      "id_str" : "221263484",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014259287063920640\/Sq0VArWo_normal.jpg",
-      "id" : 221263484,
-      "verified" : false
-    }
-  },
-  "id" : 397850656050262017,
-  "created_at" : "2013-11-05 22:19:22 +0000",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",

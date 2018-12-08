@@ -237,7 +237,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "HDGregg",
       "protected" : false,
       "id_str" : "41186732",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925576534869598208\/lccg4jus_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058144525217161217\/UKF7mJzP_normal.jpg",
       "id" : 41186732,
       "verified" : false
     }

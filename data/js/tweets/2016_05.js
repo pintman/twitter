@@ -113,13 +113,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -129,16 +123,11 @@ Grailbird.data.tweets_2016_05 =
       "display_url" : "gnu.social"
     } ]
   },
-  "in_reply_to_status_id_str" : "737008074192457728",
   "geo" : { },
   "id_str" : "737128110882185216",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto klingt komisch, frag doch mal bei https:\/\/t.co\/lm37OcMKiS nach. Bugtracker, IRC, Mailingliste oder so.",
   "id" : 737128110882185216,
-  "in_reply_to_status_id" : 737008074192457728,
   "created_at" : "2016-05-30 03:46:51 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -152,7 +141,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 0, 7 ],
       "id_str" : "1735041",
@@ -220,27 +209,16 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "736906116035149824",
   "geo" : { },
   "id_str" : "736921878527365120",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto Und Javascript kann Maustasten deaktivieren? H\u00F6rt sich nach einem Bug an oder Fehlkonfiguration an.",
   "id" : 736921878527365120,
-  "in_reply_to_status_id" : 736906116035149824,
   "created_at" : "2016-05-29 14:07:21 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -292,27 +270,16 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "736886088334217216",
   "geo" : { },
   "id_str" : "736904314019586048",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto Hatte noch nie das Problem. Ist doch eine Funktion des OS, nicht des Browsers.",
   "id" : 736904314019586048,
-  "in_reply_to_status_id" : 736886088334217216,
   "created_at" : "2016-05-29 12:57:34 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -678,7 +645,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -1203,7 +1170,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfred Blutrausch",
+      "name" : "Cinderelaxo Blutrauschfichte",
       "screen_name" : "kopfgebruell",
       "indices" : [ 3, 16 ],
       "id_str" : "1613363562",
@@ -1230,11 +1197,11 @@ Grailbird.data.tweets_2016_05 =
     "id" : 671675573668814848,
     "created_at" : "2015-12-01 13:01:50 +0000",
     "user" : {
-      "name" : "Alfred Blutrausch",
+      "name" : "Cinderelaxo Blutrauschfichte",
       "screen_name" : "kopfgebruell",
       "protected" : false,
       "id_str" : "1613363562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/961520226788630529\/piRJUeSc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057031650968768514\/RCKKiVzP_normal.jpg",
       "id" : 1613363562,
       "verified" : false
     }
@@ -1254,7 +1221,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -1490,7 +1457,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2009,7 +1976,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2042,7 +2009,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nic Cage and the Bad Reads",
+      "name" : "Felon Musk",
       "screen_name" : "ieure",
       "indices" : [ 3, 9 ],
       "id_str" : "6476652",
@@ -2131,11 +2098,11 @@ Grailbird.data.tweets_2016_05 =
     "id" : 614130731770617856,
     "created_at" : "2015-06-25 17:59:11 +0000",
     "user" : {
-      "name" : "Nic Cage and the Bad Reads",
+      "name" : "Felon Musk",
       "screen_name" : "ieure",
       "protected" : false,
       "id_str" : "6476652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982073966209613825\/lBk6jWxg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023786395674890241\/_s_EOysH_normal.jpg",
       "id" : 6476652,
       "verified" : false
     }
@@ -2717,12 +2684,6 @@ Grailbird.data.tweets_2016_05 =
       "indices" : [ 15, 26 ],
       "id_str" : "1533439824",
       "id" : 1533439824
-    }, {
-      "name" : "Lotta",
-      "screen_name" : "LottaRef",
-      "indices" : [ 27, 36 ],
-      "id_str" : "4635971115",
-      "id" : 4635971115
     }, {
       "name" : "teachermoeller",
       "screen_name" : "teachermoeller",
@@ -3433,7 +3394,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -4532,7 +4493,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Computational Linguesther",
+      "name" : "Esther Seyffarth",
       "screen_name" : "ojahnn",
       "indices" : [ 0, 7 ],
       "id_str" : "24693754",
@@ -4793,13 +4754,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Britz",
+      "name" : "Nicole Britz \uD83D\uDC00",
       "screen_name" : "dyfustic",
       "indices" : [ 0, 9 ],
       "id_str" : "75604831",
       "id" : 75604831
     }, {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 10, 20 ],
       "id_str" : "14700783",
@@ -4832,12 +4793,6 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    }, {
       "name" : "Paul Fenwick",
       "screen_name" : "pjf",
       "indices" : [ 12, 16 ],
@@ -4848,16 +4803,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "730274330844770304",
   "geo" : { },
   "id_str" : "730277288214941696",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto @pjf also doch nur mit Wasser gekocht bei Google.",
   "id" : 730277288214941696,
-  "in_reply_to_status_id" : 730274330844770304,
   "created_at" : "2016-05-11 06:04:08 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -5309,7 +5259,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvar Freude",
+      "name" : "Alvar C.H. Freude",
       "screen_name" : "alvar_f",
       "indices" : [ 0, 8 ],
       "id_str" : "17290634",
@@ -5360,7 +5310,7 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "46612397",
       "id" : 46612397
     }, {
-      "name" : "Alvar Freude",
+      "name" : "Alvar C.H. Freude",
       "screen_name" : "alvar_f",
       "indices" : [ 6, 14 ],
       "id_str" : "17290634",
@@ -5489,7 +5439,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -5658,7 +5608,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "iamdevloper",
       "protected" : false,
       "id_str" : "564919357",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071055431215276033\/U9-RIlDs_normal.jpg",
       "id" : 564919357,
       "verified" : false
     }
@@ -6060,7 +6010,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 3, 13 ],
       "id_str" : "14700783",
@@ -6087,7 +6037,7 @@ Grailbird.data.tweets_2016_05 =
     "id" : 726706640838361088,
     "created_at" : "2016-05-01 09:35:39 +0000",
     "user" : {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "protected" : false,
       "id_str" : "14700783",

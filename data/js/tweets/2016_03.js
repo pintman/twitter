@@ -246,7 +246,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -2033,7 +2033,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "blume_bob",
       "protected" : false,
       "id_str" : "1857703057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010964242311401474\/rB0LXNkX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063015117221191681\/63ms1V55_normal.jpg",
       "id" : 1857703057,
       "verified" : false
     }
@@ -2419,13 +2419,13 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sascha Stoltenow",
+      "name" : "Buzzride in peace",
       "screen_name" : "BendlerBlogger",
       "indices" : [ 0, 15 ],
       "id_str" : "17673914",
       "id" : 17673914
     }, {
-      "name" : "Lars \"Quokka\" Fischer",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 16, 26 ],
       "id_str" : "14700783",

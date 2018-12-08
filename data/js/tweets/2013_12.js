@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "flowchainsensei",
       "protected" : false,
       "id_str" : "42469463",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980078463884365825\/oFjHe2i5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067018188762820610\/38seY-gW_normal.jpg",
       "id" : 42469463,
       "verified" : false
     }

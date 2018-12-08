@@ -96,7 +96,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "GebMoped",
       "protected" : false,
       "id_str" : "112798557",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980583409813786624\/rc_OD4qF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034900673790464003\/g4cTj0nP_normal.jpg",
       "id" : 112798557,
       "verified" : true
     }
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -773,7 +773,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T.T. Kreischwurst on Slippery Stairs",
+      "name" : "T.T. Brutalist Soap",
       "screen_name" : "nichtschubsen",
       "indices" : [ 3, 17 ],
       "id_str" : "1012814924",
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2016_06 =
     "id" : 741208673268211713,
     "created_at" : "2016-06-10 10:01:33 +0000",
     "user" : {
-      "name" : "T.T. Kreischwurst on Slippery Stairs",
+      "name" : "T.T. Brutalist Soap",
       "screen_name" : "nichtschubsen",
       "protected" : false,
       "id_str" : "1012814924",
@@ -830,7 +830,7 @@ Grailbird.data.tweets_2016_06 =
       "id_str" : "37392063",
       "id" : 37392063
     }, {
-      "name" : "Sonia Mikich",
+      "name" : "Sonia Seymour Mikich",
       "screen_name" : "SoniaMikich",
       "indices" : [ 15, 27 ],
       "id_str" : "545887340",
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2016_06 =
       "id_str" : "1305485232",
       "id" : 1305485232
     }, {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 65, 74 ],
       "id_str" : "17154029",
@@ -1163,7 +1163,7 @@ Grailbird.data.tweets_2016_06 =
       "id_str" : "59085146",
       "id" : 59085146
     }, {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 13, 20 ],
       "id_str" : "1735041",
@@ -1241,13 +1241,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Sugioarto \u274E",
-      "screen_name" : "msugioarto",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3137835203",
-      "id" : 3137835203
-    }, {
-      "name" : "Jan Harasym \uD83E\uDD24",
+      "name" : "Jane Harrison \uD83E\uDD24",
       "screen_name" : "dijit",
       "indices" : [ 12, 18 ],
       "id_str" : "15209123",
@@ -1269,16 +1263,11 @@ Grailbird.data.tweets_2016_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "739900698284941312",
   "geo" : { },
   "id_str" : "740146852406931456",
-  "in_reply_to_user_id" : 3137835203,
   "text" : "@msugioarto @dijit @bitfield @sarahsharp \"worth\"?",
   "id" : 740146852406931456,
-  "in_reply_to_status_id" : 739900698284941312,
   "created_at" : "2016-06-07 11:42:15 +0000",
-  "in_reply_to_screen_name" : "msugioarto",
-  "in_reply_to_user_id_str" : "3137835203",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -1562,7 +1551,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Schulz \u2600\uFE0F",
+      "name" : "realstefanschulz \u2600\uFE0F",
       "screen_name" : "friiyo",
       "indices" : [ 0, 7 ],
       "id_str" : "1735041",
@@ -1994,7 +1983,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nixCraft",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "indices" : [ 3, 12 ],
       "id_str" : "17484680",
@@ -2095,7 +2084,7 @@ Grailbird.data.tweets_2016_06 =
     "id" : 739383796626128896,
     "created_at" : "2016-06-05 09:10:08 +0000",
     "user" : {
-      "name" : "nixCraft",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "protected" : false,
       "id_str" : "17484680",

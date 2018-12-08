@@ -25,7 +25,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 3, 19 ],
       "id_str" : "16274129",
@@ -52,11 +52,11 @@ Grailbird.data.tweets_2011_04 =
     "id" : 64275970277908480,
     "created_at" : "2011-04-30 10:32:40 +0000",
     "user" : {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "protected" : false,
       "id_str" : "16274129",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/60517161\/podlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042107410419261440\/iQBEynAp_normal.jpg",
       "id" : 16274129,
       "verified" : false
     }
@@ -259,7 +259,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 26, 42 ],
       "id_str" : "16274129",

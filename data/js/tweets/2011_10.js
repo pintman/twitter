@@ -57,7 +57,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernsehkritik-TV",
+      "name" : "Die Mediatheke",
       "screen_name" : "fernsehkritiktv",
       "indices" : [ 0, 16 ],
       "id_str" : "16274129",

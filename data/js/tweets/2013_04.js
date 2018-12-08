@@ -546,7 +546,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fabiozzo Carbonara",
+      "name" : "Fabiozzo",
       "screen_name" : "Fabiozzo",
       "indices" : [ 3, 12 ],
       "id_str" : "45785408",
@@ -573,7 +573,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 322687286015840256,
     "created_at" : "2013-04-12 12:26:58 +0000",
     "user" : {
-      "name" : "Fabiozzo Carbonara",
+      "name" : "Fabiozzo",
       "screen_name" : "Fabiozzo",
       "protected" : false,
       "id_str" : "45785408",

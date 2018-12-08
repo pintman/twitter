@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "Apfelkernchen",
       "protected" : false,
       "id_str" : "42267193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014224621946753027\/NXyiVL3x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064877813487083527\/HehCyxAZ_normal.jpg",
       "id" : 42267193,
       "verified" : false
     }
@@ -1975,7 +1975,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "|Propofolpropeller\u2122|",
+      "name" : "|PROPOFOLPR\uD83C\uDF85\uD83C\uDFFBPELLER|\u2122\uFE0F",
       "screen_name" : "Doktor_FreakOut",
       "indices" : [ 3, 19 ],
       "id_str" : "730218697",
@@ -2002,7 +2002,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 256404215184887808,
     "created_at" : "2012-10-11 14:41:43 +0000",
     "user" : {
-      "name" : "|Propofolpropeller\u2122|",
+      "name" : "|PROPOFOLPR\uD83C\uDF85\uD83C\uDFFBPELLER|\u2122\uFE0F",
       "screen_name" : "Doktor_FreakOut",
       "protected" : false,
       "id_str" : "730218697",

@@ -517,7 +517,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "BruneKerstin",
       "protected" : false,
       "id_str" : "2151202847",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013406584163262466\/lLQ8mte4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054461618338308097\/6-GHvijd_normal.jpg",
       "id" : 2151202847,
       "verified" : false
     }

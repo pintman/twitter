@@ -30,7 +30,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 0, 9 ],
       "id_str" : "17154029",
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "indices" : [ 3, 12 ],
       "id_str" : "17154029",
@@ -90,11 +90,11 @@ Grailbird.data.tweets_2017_07 =
     "id" : 891927566445158400,
     "created_at" : "2017-07-31 07:44:37 +0000",
     "user" : {
-      "name" : "\uD83D\uDCEB J\u00F6ran",
+      "name" : "\uD83E\uDD29J\u00F6ran, lebenslang Lernender",
       "screen_name" : "joeranDE",
       "protected" : false,
       "id_str" : "17154029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550243061091934208\/kiy_ovWC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039025036668153861\/X9yOK3Ke_normal.jpg",
       "id" : 17154029,
       "verified" : false
     }
@@ -688,27 +688,16 @@ Grailbird.data.tweets_2017_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dementorin",
-      "screen_name" : "Dementorin",
-      "indices" : [ 0, 11 ],
-      "id_str" : "2838726448",
-      "id" : 2838726448
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "890560871348535297",
   "geo" : { },
   "id_str" : "890628874903601152",
-  "in_reply_to_user_id" : 2838726448,
   "text" : "@Dementorin Ob das M\u00E4dchen wei\u00DF, dass sein Brief ver\u00F6ffentlicht wurde? Hat es der Ver\u00F6ffentlichung zugestimmt?",
   "id" : 890628874903601152,
-  "in_reply_to_status_id" : 890560871348535297,
   "created_at" : "2017-07-27 17:44:05 +0000",
-  "in_reply_to_screen_name" : "Dementorin",
-  "in_reply_to_user_id_str" : "2838726448",
   "user" : {
     "name" : "Pintman",
     "screen_name" : "pintman",
@@ -1148,7 +1137,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "2972116582",
       "id" : 2972116582
     }, {
-      "name" : "nixCraft",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "indices" : [ 13, 22 ],
       "id_str" : "17484680",
@@ -1165,7 +1154,7 @@ Grailbird.data.tweets_2017_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "nixCraft",
+        "name" : "The Best Linux Blog In the Unixverse",
         "screen_name" : "nixcraft",
         "indices" : [ 0, 9 ],
         "id_str" : "17484680",
@@ -1237,7 +1226,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kai",
+      "name" : "kai\uD83E\uDD70",
       "screen_name" : "kawie",
       "indices" : [ 3, 9 ],
       "id_str" : "16042394",
@@ -1274,11 +1263,11 @@ Grailbird.data.tweets_2017_07 =
     "id" : 889489983891009536,
     "created_at" : "2017-07-24 14:18:32 +0000",
     "user" : {
-      "name" : "kai",
+      "name" : "kai\uD83E\uDD70",
       "screen_name" : "kawie",
       "protected" : false,
       "id_str" : "16042394",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002607119907086337\/fkL99PPc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069637134624190464\/Dzwpf0QT_normal.jpg",
       "id" : 16042394,
       "verified" : false
     }
@@ -1985,7 +1974,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -2024,7 +2013,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
@@ -2360,7 +2349,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "texttheater",
       "protected" : false,
       "id_str" : "17352285",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994300099751792641\/56lcefiu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044554573669703681\/RIf6kE2D_normal.jpg",
       "id" : 17352285,
       "verified" : false
     }
@@ -2728,7 +2717,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDCE3\uD835\uDCF8\uD835\uDCEB\uD835\uDCF2\uD835\uDCEA\uD835\uDCFC \uD835\uDCE2\uD835\uDCFD\uD835\uDCFB\uD835\uDCFE\uD835\uDCEC\uD835\uDCF4\uD835\uDCF6\uD835\uDCEE\uD835\uDCF2\uD835\uDCEE\uD835\uDCFB",
+      "name" : "Tobias Struckmeier",
       "screen_name" : "tobmaster",
       "indices" : [ 0, 10 ],
       "id_str" : "12884262",
